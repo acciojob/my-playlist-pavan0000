@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+
+ #main{
+  width: 100vw;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  background:#cccccc;
+  justify-content: center;
+	flex-direction: column;
+}	 
+
+#unorderList{
+	list-style: none;
+	border:2px solid black;
+	width:80vw;
+	border-radius:10px;
+}
